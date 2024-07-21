@@ -17,7 +17,7 @@ body {
     position: relative;
     transform-style: preserve-3d;
     transform: rotateY(0deg);
-    transition: transform 0.1s;
+    transition: transform 4s;
 }
 
 .card:hover {
